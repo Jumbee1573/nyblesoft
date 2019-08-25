@@ -1,3 +1,17 @@
+Nyblesoft - это своего рода "ToDo-application". В нем есть создание, удаление, просмотр и редактирование заметок.
+Особенностью можно выделить создание тегов с помощью "#" (например: "Love #React", "#React" - станет тегом).
+После создания тегов, можно фильтровать с помощью них, нажав на тег.
+Приложение адаптивно и сохраняет заметки в localstorage.
+
+Использованные технологии:
+1. React
+2. Redux
+3. Redux-localstorage
+4. SCSS
+5. ESLint & Prettier
+
+Посмотреть работу приложения можно по ссылке: http://nyblesoft.000webhostapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
